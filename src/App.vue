@@ -1,13 +1,7 @@
 <template>
-  <div>
-    你好
-  </div>
+  <router-view></router-view>
 </template>
 
-<script setup lang="ts">
+<script setup lang="ts"></script>
 
-</script>
-
-<style>
-
-</style>
+<style scoped lang="scss"></style>
