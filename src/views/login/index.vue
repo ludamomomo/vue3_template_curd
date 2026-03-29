@@ -10,7 +10,7 @@
           ref="loginFormRef"
         >
           <h1>Hello</h1>
-          <h2>欢迎来到硅谷甄选</h2>
+          <h2>欢迎来到我的项目</h2>
           <el-form-item prop="userName">
             <el-input
               :prefix-icon="User"

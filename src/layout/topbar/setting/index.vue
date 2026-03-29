@@ -3,7 +3,7 @@
   <el-button :icon="FullScreen" circle @click="handleFull" />
   <el-button :icon="Setting" circle />
   <img
-    src="../../../../public/logo.png"
+    src="../../../assets/images/wangruiyang.png"
     alt=""
     style="width: 30px; height: 30px; margin-left: 10px"
   />

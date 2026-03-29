@@ -1,7 +1,7 @@
 <template>
   <div class="logo">
-    <img src="../../../public/logo.png" alt="" />
-    <p>硅谷甄选运营平台</p>
+    <img src="../../assets/images/wangruiyang.png" alt="" />
+    <p>欢迎来到我的项目</p>
   </div>
 </template>
 
@@ -17,6 +17,7 @@
   img {
     width: 40px;
     height: 40px;
+    border-radius: 20px;
   }
   p {
     font-size: 20px;
